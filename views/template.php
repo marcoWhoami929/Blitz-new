@@ -58,6 +58,7 @@
 	?>
 
 	<script src="views/js/sidebarmenu.js"></script>
+	<script src="views/js/template.js"></script>
 	<script src="views/js/app.min.js"></script>
 	<script src="views/libs/apexcharts/dist/apexcharts.min.js"></script>
 	<script src="views/libs/simplebar/dist/simplebar.js"></script>
